@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello, Jenkins!"
+echo "UrbanBasket service online for CIE set 223!"
